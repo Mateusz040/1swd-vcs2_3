@@ -1,3 +1,7 @@
+chips
+cola
+bier
+water
 melk
 kip
 chips
@@ -8,4 +12,3 @@ bananen
 kaas
 pindakaas
 pepernoten
-wcpapier
