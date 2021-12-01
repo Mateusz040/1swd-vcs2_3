@@ -4,11 +4,15 @@ bier
 water
 melk
 kip
-chips
-cola
 chocola
 nootjes
 bananen
 kaas
 pindakaas
 pepernoten
+wcpapier
+kalkoen
+pesto
+champagne
+tiramisu
+
