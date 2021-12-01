@@ -2,8 +2,7 @@ melk
 kip
 chips
 cola
-bier
-water
-pindakaas
-pepernoten
-wcpapier
+chocola
+nootjes
+bananen
+kaas
