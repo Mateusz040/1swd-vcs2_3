@@ -6,3 +6,6 @@ chocola
 nootjes
 bananen
 kaas
+pindakaas
+pepernoten
+wcpapier
